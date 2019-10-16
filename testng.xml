@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="StarkForce Admin Panel Test Suite">
+
+    <listeners>
+        <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+    </listeners>
+
+    <test name="Starkforce AdminPanel Testcases">
+        <classes>
+
+            <class name="com.qa.testcases.LoginTestPage">
+                <methods>
+                    <include name="loginPageTitleTest"/>
+                    <include name="logoImageTest"/>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+
+            <class name="com.qa.testcases.DashboardPageTest">
+                <methods>
+                    <include name="verifyDashboardPageTitleTest"/>
+                    <include name="verifyUserEmailIDTest"/>
+                    <include name="verifyClickOnContractorLink"/>
+                </methods>
+            </class>
+
+            <class name="com.qa.testcases.ContractorListPageTest">
+                <methods>
+                    <include name="verifyPageTitleTest"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

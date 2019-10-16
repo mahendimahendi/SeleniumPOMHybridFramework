@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="515dfd60-3d2e-4916-af0d-32c4854e6aa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POMbyNaveen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/ExtentReportListener/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/base/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/executables/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/executables/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/executables/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/executables/operadriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/AddContractorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/ContractorListPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/ExpiredDocsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/PendingDocsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/testdata/testdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utilities/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utilities/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/utilities/WebEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcases/AddContractorPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcases/ContractorListPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcases/DashboardPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcases/LoginTestPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/ExtentReportListener/ExtentReporterNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/base/base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/pages/AddContractorPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/pages/ContractorListPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/pages/DashboardPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/pages/ExpiredDocsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/pages/PendingDocsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/utilities/ExcelReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/utilities/TestUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/utilities/WebEventListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/qa/testcases/AddContractorPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/qa/testcases/ContractorListPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/qa/testcases/DashboardPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/qa/testcases/LoginTestPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RsXcjTB9GUCHBiDLtB6FERqsyS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-output" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41149426" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\indianic\IdeaProjects\POMbyNaveen\src\main\java\com\qa\utilities" />
+      <recent name="C:\Users\indianic\IdeaProjects\POMbyNaveen\src\main\java\com\qa\executables" />
+      <recent name="C:\Users\indianic\IdeaProjects\POMbyNaveen\src\main\java\com\qa\testdata" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="TestNG" show_console_on_std_err="true" show_console_on_std_out="true">
+      <output_file path="$PROJECT_DIR$/test-output/consoleoutput" is_save="true" />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="515dfd60-3d2e-4916-af0d-32c4854e6aa8" name="Default Changelist" comment="" />
+      <created>1570456865447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570456865447</updated>
+    </task>
+    <servers />
+  </component>
+</project>
